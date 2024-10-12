@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DoumbiaMamadou
-- 👀 I’m interested in mainly in Web and mobile development with .NET Technologies.
+- 👀 I’m mainly interested in Web and mobile development with.
 - I'm also good at Database development with MS-SQL and MySQL.
-- 🌱 I’m currently learning PHP and planning to learn React ..
-- 💞️ I’m looking to collaborate on Angular, ...
+- 🌱 I’m currently working with Angular planning to learn React ..
+- 💞️ I’m looking to collaborate on Angular project, ...
 - 📫 How to reach me ...
 
 <!---
